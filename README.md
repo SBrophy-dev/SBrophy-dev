@@ -27,7 +27,7 @@ I'm an Infrastructure Engineer at **Unum**, working primarily on **Amazon Connec
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔭 **FlowLens** *(private)* | VS Code extension to visualise, simulate & audit Amazon Connect flows. Freemium model in development. | TypeScript · VS Code API · AWS |
+| 🔭 **FlowLens** *(private)* | VS Code extension to visualise, simulate & audit Amazon Connect flows. In development. | TypeScript · VS Code API · AWS |
 | 🎮 **Dev Legend** *(private)* | A VS Code extension RPG — level up 19 skills based on your real coding activity. OSRS-style XP curve, classes & achievements. | TypeScript · VS Code API |
 | ⚡ [**Lambda-Benchmaker**](https://github.com/SBrophy-dev/Lambda-Benchmaker) | CLI tool to benchmark AWS Lambda cold start performance across runtimes and memory configs. | Python · AWS SDK |
 | 🤖 [**Bedrock-Chat**](https://github.com/SBrophy-dev/Bedrock-Chat) | Web-based chat interface for AWS Bedrock foundation models. | TypeScript · AWS Bedrock |
