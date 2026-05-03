@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://sbrophy-dev.github.io/" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="mailto:stuartbrophy157@gmail.com">📬 Email</a>
+  <a href="https://www.linkedin.com/in/stuart-brophy/">💼 LinkedIn</a>
 </p>
 
 ---
@@ -48,16 +49,6 @@ I'm an Infrastructure Engineer at **Unum**, working primarily on **Amazon Connec
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SBrophy-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stuart's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBrophy-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
 
 ---
 
