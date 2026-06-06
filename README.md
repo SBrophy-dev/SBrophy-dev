@@ -17,9 +17,9 @@
 I'm an Infrastructure Engineer at **Unum**, working primarily on **Amazon Connect** — building, automating, and securing cloud contact centre infrastructure at scale. I hold a **First Class Honours degree in Cyber Security** and spend most of my spare time building dev tools, games, and things I wish already existed.
 
 - 🔧 Day job: AWS Connect · IaC · CI/CD · Security & Compliance
-- 🛠️ Currently building: **FlowLens** — a VS Code extension for Amazon Connect flows
+- 🛠️ Currently building: **FlowLens** — A platform designed to handle Amazon Connect flows
 - 🎮 Also building: **Dev Legend** (VS Code RPG) · **Realms of Iron** (browser strategy game)
-- 🌱 Learning through building: Django · CLI tooling · ASCII art for some reason
+- 🌱 Learning through building: Django · CLI tooling · ASCII art, for some reason
 
 ---
 
@@ -27,7 +27,7 @@ I'm an Infrastructure Engineer at **Unum**, working primarily on **Amazon Connec
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔭 **FlowLens** *(private)* | Import, visualise, edit, simulate, and audit AWS Connect contact flow. VS Code extension, Standalone web app, and Headless CI runner. [**Live-Demo here**](https://flowlens.pages.dev/) | TypeScript · Web-app · AWS |
+| 🔎 **FlowLens** *(private)* | Import, visualise, edit, simulate, and audit AWS Connect contact flow JSON exports — with change-risk signals, auto-generated scenarios, and cross flow edge connections. Standalone web app, VS Code Extension and Headless CI runner. [**Live-Demo here**](https://flowlens.pages.dev/) | TypeScript · Web-app · AWS |
 | 🎮 **Dev Legend** *(private)* | A VS Code extension RPG — level up 19 skills based on your real coding activity. OSRS-style XP curve, classes & achievements. | TypeScript · VS Code API |
 | ⚡ [**Lambda-Benchmaker**](https://github.com/SBrophy-dev/Lambda-Benchmaker) | CLI tool to benchmark AWS Lambda cold start performance across runtimes and memory configs. | Python · AWS SDK |
 | 🤖 [**Bedrock-Chat**](https://github.com/SBrophy-dev/Bedrock-Chat) | Web-based chat interface for AWS Bedrock foundation models. | TypeScript · AWS Bedrock |
