@@ -28,7 +28,7 @@ I'm an Infrastructure Engineer at **Unum**, working primarily on **Amazon Connec
 | Project | Description | Stack |
 |---|---|---|
 | 🔎 **FlowLens** *(private)* | Import, visualise, edit, simulate, and audit AWS Connect contact flow JSON exports — with change-risk signals, auto-generated scenarios, and cross flow edge connections. Standalone web app, VS Code Extension and Headless CI runner. [**Live-Demo here**](https://flowlens.pages.dev/) | TypeScript · Web-app · AWS |
-| 🎮 **Dev Legend** *(private)* | A VS Code extension RPG — level up 19 skills based on your real coding activity. OSRS-style XP curve, classes & achievements. | TypeScript · VS Code API |
+| 🎮 **Dev Legend** *(private)* | A VS Code extension RPG — level up 19 skills based on your real coding activity. OSRS-style XP curve, classes & achievements. Available via [**VS Marketplace**](https://marketplace.visualstudio.com/items?itemName=SBrophy-dev.dev-legend/) | TypeScript · VS Code API |
 | ⚡ [**Lambda-Benchmaker**](https://github.com/SBrophy-dev/Lambda-Benchmaker) | CLI tool to benchmark AWS Lambda cold start performance across runtimes and memory configs. | Python · AWS SDK |
 | 🤖 [**Bedrock-Chat**](https://github.com/SBrophy-dev/Bedrock-Chat) | Web-based chat interface for AWS Bedrock foundation models. | TypeScript · AWS Bedrock |
 | ⚔️ [**Realms of Iron**](https://github.com/SBrophy-dev/StrategyGame) | Browser-based grand strategy game — WEGO turns, utility-based AI, deterministic combat. | TypeScript |
