@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sbrophy-dev.github.io/" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://sbrophy.click" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="mailto:stuartbrophy157@gmail.com">📬 Email</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/stuart-brophy/">💼 LinkedIn</a>
 </p>
