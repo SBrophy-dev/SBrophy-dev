@@ -37,7 +37,7 @@ I'm an Infrastructure Engineer at **Unum**, working primarily on **Amazon Connec
 | 🤖 [**Bedrock-Chat**](https://github.com/SBrophy-dev/Bedrock-Chat) | Web-based chat interface for AWS Bedrock foundation models. | TypeScript · AWS Bedrock |
 | ⚔️ [**Realms of Iron**](https://github.com/SBrophy-dev/Realms-of-Iron) | Browser-based grand strategy game — WEGO turns, utility-based AI, deterministic combat. | TypeScript |
 | 🐚 [**Deepshell**](https://github.com/SBrophy-dev/Deepshell) | CLI roguelike dungeon crawler with procedural generation. | TypeScript |
-| 🐚 [**Epic Game Library Sorter**](https://github.com/SBrophy-dev/Epic-Library-Sorter) | PowerShell script to pull Epic Game library and cross-references with Steam to rank your games by community review score | PowerShell |
+| 👾 [**Epic Game Library Sorter**](https://github.com/SBrophy-dev/Epic-Library-Sorter) | PowerShell script to pull Epic Game library and cross-references with Steam to rank your games by community review score | PowerShell |
 | 🖼️ [**ArtScii**](https://github.com/SBrophy-dev/ArtScii) | Local ASCII art studio with LLM-assisted generation and image-to-ASCII conversion. | Python |
 | 📚 [**Django Interactive Tutor**](https://github.com/SBrophy-dev/Django-Interactive-Tutor) | Django learning platform - modular lesson engine, interactive code challenges, progress tracking with SQLite, and a custom template system. | Python · Django · Docker |
 
