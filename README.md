@@ -30,12 +30,16 @@ I'm an Infrastructure Engineer at **Unum**, working primarily on **Amazon Connec
 | 🔎 **FlowLens** *(private)* | Import, visualise, edit, simulate, and audit AWS Connect contact flow JSON exports — with change-risk signals, auto-generated scenarios, and cross flow edge connections. Standalone web app, VS Code Extension and Headless CI runner. [**Live-Demo here**](https://flowlens.pages.dev/) | TypeScript · Web-app · AWS |
 | 🔐 **Connect Closure Orchestrator** *(private)* | A multi-tenant SaaS control plane for governed Amazon Connect contact-centre closures | Python · TypeScript · AWS |
 | 🎮 **Dev Legend** *(private)* | A VS Code extension RPG — level up 19 skills based on your real coding activity. OSRS-style XP curve, classes & achievements. Available via [**VS Marketplace**](https://marketplace.visualstudio.com/items?itemName=SBrophy-dev.dev-legend) | TypeScript · VS Code API |
-| ⚡ [**Lambda-Benchmaker**](https://github.com/SBrophy-dev/Lambda-Benchmaker) | CLI tool to benchmark AWS Lambda cold start performance across runtimes and memory configs. | Python · AWS SDK |
+| 🎞️ [**Clip Chimp**](https://github.com/SBrophy-dev/clip-chimp) | Turn long videos and streams into platform-ready short-form clips - locally, for free | Python · Javascript |
+| 🗚 [**TypeCraft**](https://github.com/SBrophy-dev/TypeCraft) | Client-side type foundry - load any font as editable Bézier outlines, apply geometric transforms, redraw glyphs, and export real files. | Typescript · CSS |
+| 🔍 [**Cuardaigh**](https://github.com/SBrophy-dev/Cuardaigh) | Chrome Manifest V3 browser extension - injects a floating search dork builder into Google/Bing result pages | Typescript · CSS |
+| ⚡ [**Lambda-Benchmarker**](https://github.com/SBrophy-dev/Lambda-Benchmarker) | CLI tool to benchmark AWS Lambda cold start performance across runtimes and memory configs. | Python · AWS SDK |
 | 🤖 [**Bedrock-Chat**](https://github.com/SBrophy-dev/Bedrock-Chat) | Web-based chat interface for AWS Bedrock foundation models. | TypeScript · AWS Bedrock |
-| ⚔️ [**Realms of Iron**](https://github.com/SBrophy-dev/StrategyGame) | Browser-based grand strategy game — WEGO turns, utility-based AI, deterministic combat. | TypeScript |
+| ⚔️ [**Realms of Iron**](https://github.com/SBrophy-dev/Realms-of-Iron) | Browser-based grand strategy game — WEGO turns, utility-based AI, deterministic combat. | TypeScript |
 | 🐚 [**Deepshell**](https://github.com/SBrophy-dev/Deepshell) | CLI roguelike dungeon crawler with procedural generation. | TypeScript |
+| 🐚 [**Epic Game Library Sorter**](https://github.com/SBrophy-dev/Epic-Library-Sorter) | PowerShell script to pull Epic Game library and cross-references with Steam to rank your games by community review score | PowerShell |
 | 🖼️ [**ArtScii**](https://github.com/SBrophy-dev/ArtScii) | Local ASCII art studio with LLM-assisted generation and image-to-ASCII conversion. | Python |
-| 📚 [**Django Learning Dashboard**](https://github.com/SBrophy-dev/Django_Learning) | Interactive Django learning platform with a sandboxed code executor, progress tracking & achievements. | Python · Django · Docker |
+| 📚 [**Django Interactive Tutor**](https://github.com/SBrophy-dev/Django-Interactive-Tutor) | Django learning platform - modular lesson engine, interactive code challenges, progress tracking with SQLite, and a custom template system. | Python · Django · Docker |
 
 ---
 
